@@ -1,0 +1,14 @@
+C:\Users\russi\source\repos\практическая\практическая\bin\Debug\net8.0\практическая.exe
+C:\Users\russi\source\repos\практическая\практическая\bin\Debug\net8.0\практическая.deps.json
+C:\Users\russi\source\repos\практическая\практическая\bin\Debug\net8.0\практическая.runtimeconfig.json
+C:\Users\russi\source\repos\практическая\практическая\bin\Debug\net8.0\практическая.dll
+C:\Users\russi\source\repos\практическая\практическая\bin\Debug\net8.0\практическая.pdb
+C:\Users\russi\source\repos\практическая\практическая\obj\Debug\net8.0\практическая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\russi\source\repos\практическая\практическая\obj\Debug\net8.0\практическая.AssemblyInfoInputs.cache
+C:\Users\russi\source\repos\практическая\практическая\obj\Debug\net8.0\практическая.AssemblyInfo.cs
+C:\Users\russi\source\repos\практическая\практическая\obj\Debug\net8.0\практическая.csproj.CoreCompileInputs.cache
+C:\Users\russi\source\repos\практическая\практическая\obj\Debug\net8.0\практическая.dll
+C:\Users\russi\source\repos\практическая\практическая\obj\Debug\net8.0\refint\практическая.dll
+C:\Users\russi\source\repos\практическая\практическая\obj\Debug\net8.0\практическая.pdb
+C:\Users\russi\source\repos\практическая\практическая\obj\Debug\net8.0\практическая.genruntimeconfig.cache
+C:\Users\russi\source\repos\практическая\практическая\obj\Debug\net8.0\ref\практическая.dll
